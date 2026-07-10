@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
+| [0282-expression-add-operators](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0282-expression-add-operators) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1556-thousand-separator](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1556-thousand-separator) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0282-expression-add-operators) |
 | [1025-divisor-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Brainteaser
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1729-find-followers-count](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
