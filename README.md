@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0006-zigzag-conversion) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0282-expression-add-operators) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
