@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0006-zigzag-conversion) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0282-expression-add-operators) |
+| [0345-reverse-vowels-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
