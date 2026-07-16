@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1710-maximum-units-on-a-truck) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [1710-maximum-units-on-a-truck](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1710-maximum-units-on-a-truck) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
@@ -108,13 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0917-reverse-only-letters) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0054-spiral-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
