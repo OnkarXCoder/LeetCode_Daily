@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0917-reverse-only-letters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
+| [0392-is-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1025-divisor-game) |
 ## Trie
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0917-reverse-only-letters) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
