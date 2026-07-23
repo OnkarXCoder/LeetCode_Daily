@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
