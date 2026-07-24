@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0917-reverse-only-letters) |
 | [1143-longest-common-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1143-longest-common-subsequence) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1556-thousand-separator](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1556-thousand-separator) |
 | [1657-determine-if-two-strings-are-close](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [1331-rank-transform-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1331-rank-transform-of-an-array) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [3668-restore-finishing-order](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3945-digit-frequency-score) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1657-determine-if-two-strings-are-close) |
 ## Bit Manipulation
 |  |
