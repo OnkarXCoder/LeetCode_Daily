@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0917-reverse-only-letters) |
 | [1143-longest-common-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1143-longest-common-subsequence) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
+| [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [1331-rank-transform-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1291-sequential-digits) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
