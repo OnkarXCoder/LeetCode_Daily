@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1148-article-views-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1148-article-views-i) |
 | [1729-find-followers-count](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Backtracking
