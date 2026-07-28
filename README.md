@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2864-maximum-odd-binary-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2864-maximum-odd-binary-number) |
 | [3110-score-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3110-score-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [1710-maximum-units-on-a-truck](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1710-maximum-units-on-a-truck) |
 | [2974-minimum-number-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2974-minimum-number-game) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
