@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2235-add-two-integers](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2769-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2894-divisible-and-non-divisible-sums-difference) |
