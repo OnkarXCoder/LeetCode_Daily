@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2810-faulty-keyboard) |
 | [2864-maximum-odd-binary-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3668-restore-finishing-order](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2864-maximum-odd-binary-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1710-maximum-units-on-a-truck) |
 | [2785-sort-vowels-in-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2974-minimum-number-game) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
