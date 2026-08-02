@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0495-teemo-attacking) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
+| [0877-stone-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1037-valid-boomerang) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1143-longest-common-subsequence) |
 ## Trie
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1037-valid-boomerang) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Greedy
