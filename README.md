@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3110-score-of-a-string) |
+| [3280-convert-date-to-binary](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3280-convert-date-to-binary) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3280-convert-date-to-binary](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
