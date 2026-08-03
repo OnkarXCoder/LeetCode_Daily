@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1527-patients-with-a-condition) |
 | [1729-find-followers-count](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1729-find-followers-count) |
