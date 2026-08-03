@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0318-maximum-product-of-word-lengths) |
 | [0436-find-right-interval](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0436-find-right-interval) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0043-multiply-strings) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
+| [0179-largest-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0179-largest-number) |
 | [0282-expression-add-operators](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0282-expression-add-operators) |
 | [0318-maximum-product-of-word-lengths](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0179-largest-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1710-maximum-units-on-a-truck) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0436-find-right-interval) |
