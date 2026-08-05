@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2769-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2864-maximum-odd-binary-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [1710-maximum-units-on-a-truck](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2785-sort-vowels-in-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
