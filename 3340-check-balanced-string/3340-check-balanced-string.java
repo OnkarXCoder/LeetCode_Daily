@@ -9,6 +9,6 @@ class Solution {
                 oddsum+=num.charAt(i)-'0';
             }
         }
-        return (evensum==oddsum)?true:false;
+        return (evensum==oddsum);
     }
 }
