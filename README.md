@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0318-maximum-product-of-word-lengths) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0436-find-right-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0074-search-a-2d-matrix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0441-arranging-coins) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0917-reverse-only-letters) |
