@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0074-search-a-2d-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1260-shift-2d-grid) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0039-combination-sum) |
 | [0282-expression-add-operators](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0282-expression-add-operators) |
 ## Counting
@@ -346,4 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1406-stone-game-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
