@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2315-count-asterisks](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2315-count-asterisks) |
 | [2785-sort-vowels-in-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2810-faulty-keyboard) |
 | [2864-maximum-odd-binary-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2864-maximum-odd-binary-number) |
