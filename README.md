@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1527-patients-with-a-condition) |
 | [1729-find-followers-count](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1795-rearrange-products-table) |
 | [1965-employees-with-missing-information](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1978-employees-whose-manager-left-the-company) |
