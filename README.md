@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3340-check-balanced-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3668-restore-finishing-order](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3945-digit-frequency-score) |
@@ -383,4 +385,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
