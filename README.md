@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1143-longest-common-subsequence) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1441-build-an-array-with-stack-operations) |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
