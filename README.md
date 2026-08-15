@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2974-minimum-number-game) |
 | [3668-restore-finishing-order](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3668-restore-finishing-order) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3925-concatenate-array-with-reverse) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
