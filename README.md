@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0706-design-hashmap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1037-valid-boomerang) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1331-rank-transform-of-an-array) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0706-design-hashmap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0706-design-hashmap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -345,11 +348,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0706-design-hashmap) |
 ## Geometry
 |  |
 | ------- |
