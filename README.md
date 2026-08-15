@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1037-valid-boomerang) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
