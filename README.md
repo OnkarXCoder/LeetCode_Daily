@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1527-patients-with-a-condition) |
+| [1587-bank-account-summary-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1587-bank-account-summary-ii) |
 | [1729-find-followers-count](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1789-primary-department-for-each-employee) |
