@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -447,5 +448,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0459-repeated-substring-pattern) |
 | [1668-maximum-repeating-substring](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1668-maximum-repeating-substring) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
