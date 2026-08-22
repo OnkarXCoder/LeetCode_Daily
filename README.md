@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0078-subsets) |
 | [0282-expression-add-operators](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0282-expression-add-operators) |
 ## Counting
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0078-subsets) |
 | [0318-maximum-product-of-word-lengths](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0461-hamming-distance) |
