@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
+| [0572-subtree-of-another-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0706-design-hashmap) |
 ## Geometry
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0572-subtree-of-another-tree) |
 | [1668-maximum-repeating-substring](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
@@ -482,11 +484,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0572-subtree-of-another-tree) |
 ## Recursion
 |  |
 | ------- |
