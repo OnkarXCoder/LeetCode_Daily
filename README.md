@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2057-smallest-index-with-equal-value) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1927-sum-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2235-add-two-integers) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2843-count-symmetric-integers) |
