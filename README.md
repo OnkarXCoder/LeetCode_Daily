@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1572-matrix-diagonal-sum) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1710-maximum-units-on-a-truck) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1927-sum-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1927-sum-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2235-add-two-integers) |
@@ -524,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Prefix Sum
+|  |
+| ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1588-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
