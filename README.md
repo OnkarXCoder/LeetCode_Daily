@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -506,12 +507,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0938-range-sum-of-bst) |
 ## Recursion
 |  |
 | ------- |
