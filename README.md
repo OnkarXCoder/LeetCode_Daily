@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2974-minimum-number-game) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1441-build-an-array-with-stack-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
