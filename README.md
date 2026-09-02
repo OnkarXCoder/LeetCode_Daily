@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0706-design-hashmap) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
@@ -554,5 +556,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
