@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0041-first-missing-positive) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0215-kth-largest-element-in-an-array) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
