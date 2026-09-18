@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0436-find-right-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1025-divisor-game) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0078-subsets) |
 | [0282-expression-add-operators](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0494-target-sum) |
 ## Counting
 |  |
 | ------- |
@@ -599,4 +602,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
