@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0198-house-robber) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0074-search-a-2d-matrix) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0441-arranging-coins) |
