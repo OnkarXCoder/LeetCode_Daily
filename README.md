@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2498-frog-jump-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2553-separate-the-digits-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0441-arranging-coins) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2498-frog-jump-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2498-frog-jump-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2498-frog-jump-ii) |
 | [2864-maximum-odd-binary-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
