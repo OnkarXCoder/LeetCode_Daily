@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0232-implement-queue-using-stacks) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -630,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0494-target-sum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
