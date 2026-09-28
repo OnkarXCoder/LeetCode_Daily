@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1556-thousand-separator](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1556-thousand-separator) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1657-determine-if-two-strings-are-close) |
 | [1668-maximum-repeating-substring](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting Sort
 |  |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
