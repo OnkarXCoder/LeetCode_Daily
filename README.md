@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0706-design-hashmap) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
