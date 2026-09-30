@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
