@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0144-binary-tree-preorder-traversal) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
