@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0139-word-break) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0064-minimum-path-sum) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0078-subsets) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
