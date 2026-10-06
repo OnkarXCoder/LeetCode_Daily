@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0804-unique-morse-code-words](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [0917-reverse-only-letters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
