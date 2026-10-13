@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0461-hamming-distance) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
