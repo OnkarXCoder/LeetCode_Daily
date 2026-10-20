@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0707-design-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
