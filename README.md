@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0215-kth-largest-element-in-an-array) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0148-sort-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0705-design-hashset) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
@@ -689,4 +693,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1791-find-center-of-star-graph) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
