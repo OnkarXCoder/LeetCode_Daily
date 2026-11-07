@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1441-build-an-array-with-stack-operations) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0441-arranging-coins) |
 | [0888-fair-candy-swap](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2498-frog-jump-ii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2498-frog-jump-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
