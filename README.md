@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2057-smallest-index-with-equal-value](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1773-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1927-sum-game) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2315-count-asterisks](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2315-count-asterisks) |
 | [2785-sort-vowels-in-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2785-sort-vowels-in-a-string) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
