@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3271-hash-divided-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3271-hash-divided-string) |
+| [3360-stone-removal-game](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/OnkarXCoder/LeetCode_Daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
